@@ -50,20 +50,20 @@ $ python3 oxflasher.py
 
 At the beginning, the script will display the USB ports detected.
 
-![first_menu](https://github.com/OxDAbit/oxflasher/tree/main/images/01-first_menu.png)
+![first_menu](/images/01-first_menu.png)
 
 Conenct your device and press `Refresh Ports` option
 
-![refresh_ports](https://github.com/OxDAbit/oxflasher/tree/main/images/02-refresh_ports.png)
+![refresh_ports](/images/02-refresh_ports.png)
 
 Your device should appears in list **Ports detected**
 Press the option `Connect to Port` and then add the index of the USB port where your device is connected (Ex: Port nº 2 -> /dev/tty.usbserial-14310)
 
-![connect_port](https://github.com/OxDAbit/oxflasher/tree/main/images/03-connect_port.png)
+![connect_port](/images/03-connect_port.png)
 
 At this point you can create a backup of your device, erase your device or flash it with the desired binary.
 
-![create_backup](https://github.com/OxDAbit/oxflasher/tree/main/images/04-create_backup.png)
+![create_backup](/images/04-create_backup.png)
 
 ### Create backup
 
@@ -77,13 +77,13 @@ You can leave fields empty and the default parameters will be selected.
 
 After that, the script will show you the backup information before ask you if you want continue.
 
-![backup_menu](https://github.com/OxDAbit/oxflasher/tree/main/images/05-backup_menu.png)
+![backup_menu](/images/05-backup_menu.png)
 
 ### Erase device
 
 Script will show you the USB port selected for erase process before ask you if you want continue.
 
-![erase_menu](https://github.com/OxDAbit/oxflasher/tree/main/images/06-erase_menu.png)
+![erase_menu](/images/06-erase_menu.png)
 
 ### Flash device
 
@@ -97,7 +97,7 @@ You can leave fields empty and the default parameters will be selected.
 
 After that, the script will show you the backup information before ask you if you want continue.
 
-![flash_menu](https://github.com/OxDAbit/oxflasher/tree/main/images/07-flash_menu.png)
+![flash_menu](/images/07-flash_menu.png)
 
 Contact
 =======
