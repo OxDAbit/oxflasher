@@ -1,3 +1,6 @@
+[![Release](https://img.shields.io/github/v/tag/OxDAbit/oxflasher?color=red&label=release)](https://github.com/OxDAbit/oxflasher/releases/latest)
+[![Twitter](https://img.shields.io/twitter/follow/0xDA_bit.svg?style=social)](https://twitter.com/0xDA_bit)
+
 # oxflasher
 
 Manage ESP devices to backup, erase or flash with firmwares like Tasmota, HAA,... using `esptool.py`
