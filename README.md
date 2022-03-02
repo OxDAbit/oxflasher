@@ -55,7 +55,7 @@ At the beginning, the script will display the USB ports detected.
 
 ![first_menu](/images/01-first_menu.png)
 
-Conenct your device and press `Refresh Ports` option
+Connect your device and press `Refresh Ports` option
 
 ![refresh_ports](/images/02-refresh_ports.png)
 
