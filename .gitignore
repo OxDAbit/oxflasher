@@ -1,2 +1,18 @@
-
 .DS_Store
+
+# Build output
+/bin/
+/dist/
+
+# Firmware and backups (backups may contain Wi-Fi credentials!)
+*.bin
+backup/
+haa/
+tasmota/
+
+# Go / editors
+*.test
+*.out
+coverage.*
+.idea/
+.vscode/
