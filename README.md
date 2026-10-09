@@ -212,4 +212,4 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 
 - GitHub: [**OxDAbit**](https://github.com/OxDAbit)
 - X / Twitter: [**@0xDA_bit**](https://x.com/0xDA_bit)
-- Mail: **oxdabit@protonmail.com**
+- Mail: **prevenir.amistad9k@icloud.com**
